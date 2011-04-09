@@ -1,0 +1,2 @@
+This is a basic java swing application I implemented in first year completing the subject Object Oriented Concepts.
+Further I developed it to use a sql database and with client server architecture in a local network. 
